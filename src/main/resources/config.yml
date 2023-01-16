@@ -1,0 +1,3 @@
+# Here you need to set the OpenAI API key, without this, the plugin will not work.
+# You can generate an API key here: https://beta.openai.com/account/api-keys
+open-ai-api-key: "API_KEY"

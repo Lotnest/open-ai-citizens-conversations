@@ -1,0 +1,9 @@
+name: CitizensConversations
+version: '${project.version}'
+main: dev.lotnest.citizensconversations.CitizensConversations
+api-version: 1.19
+depend: [ Citizens ]
+authors: [ Lotnest ]
+description: OpenAI conversation example plugin with Citizens.
+libraries:
+  - com.theokanning.openai-gpt3-java:client:0.9.0
